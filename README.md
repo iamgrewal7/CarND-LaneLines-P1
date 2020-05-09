@@ -15,12 +15,9 @@ I then modified the draw_lines() function to extrapolate line by finding average
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One potential shortcoming would be what would happen when ...
-
-Another shortcoming could be ...
+One potential shortcoming would be what happens when the light changes. It may effect the color selection process.
+Another one can be affect of more sharp turns on the pipline
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+One way to improve the pipline is maybe by handling outliers better and taking care of tree shadows.
